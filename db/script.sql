@@ -12,3 +12,8 @@ CREATE TABLE employes(
 );
 
 DESCRIBE employes;
+
+INSERT INTO employes value (4,'Antonia', 'Mecadeo', 'Secretaria', 'Isadora Rincón');
+
+
+SELECT * FROM employes
